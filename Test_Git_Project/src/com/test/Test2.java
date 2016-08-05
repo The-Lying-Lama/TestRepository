@@ -9,6 +9,7 @@ public class Test2 {
 		System.out.println("Hello 1123456kshd");
 		System.out.println("Hello 1123456");
 		System.out.println("Hello qwerty");
+			System.out.println("Hello new");
 
 	}
 
