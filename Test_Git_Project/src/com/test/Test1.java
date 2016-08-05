@@ -13,7 +13,9 @@ public class Test1 {
 		System.out.println("Added AFter Chcekout");
 		System.out.println("Added jkashdjkhasjkdhjkh");
 		System.out.println("Added new changes");
+		System.out.println("Added new changes after checkin");
 
 	}
 
 }
+
