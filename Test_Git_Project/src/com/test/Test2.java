@@ -6,8 +6,9 @@ public class Test2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("manni");
-		System.out.println("Hello 1123456");
 		System.out.println("Hello 1123456kshd");
+		System.out.println("Hello 1123456");
+		System.out.println("Hello qwerty");
 
 	}
 
